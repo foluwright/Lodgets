@@ -1,1 +1,1 @@
-# Lodgets
+# foluwright.github.io/Lodgets
